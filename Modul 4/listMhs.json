@@ -1,0 +1,18 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1584058715324,
+      "nim": "123",
+      "nama": "Ismi",
+      "alamat": "malang",
+      "hp": "1234",
+      "angkatan": "2017",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
